@@ -1,4 +1,4 @@
-#Simon Game
+# Simon Game
 
 The Simon game is a classic memory and pattern recognition game. The game consists of a sequence of colored buttons that light up in a specific pattern. Players must mimic the pattern by clicking the buttons in the correct order. The pattern increases in complexity with each successful round.
 
