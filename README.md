@@ -18,7 +18,7 @@ The Simon game is a classic memory and pattern recognition game. The game consis
 **File Structure:**
 - `index.html`: The main HTML file that defines the structure of the game.
 - `styles.css`: The CSS file for styling the game elements.
-- `index.js`: The JavaScript file for implementing the game logic and interactivity.
+- `game.js`: The JavaScript file for implementing the game logic and interactivity.
 - `sounds/`: Directory containing sound effect files (button presses, win, lose, etc.).
 
 **How to Play:**
